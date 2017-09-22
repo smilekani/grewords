@@ -23,8 +23,8 @@
 	  <img src="images/cacophonous.jpg" alt="cacophonous" style="width:50%">
       <p>Meaning:involving or producing a harsh, discordant mixture of sounds.</p><br>
 	  	  <h2><b>4.abbreviate</b></h2>
-	  <img src="images/abbreviate.jpg" alt="abbreviate" style="width:50%">
-      <p>Meaning:shorten (a word, phrase, or text).</p><br>
+	  <img src="images/capricious.png" alt="capricious" style="width:50%">
+      <p>Meaning:given to sudden and unaccountable changes of mood or behaviour.</p><br>
 	  	  <h2><b>5.abdicate</b></h2>
 	  <img src="images/abdicate.jpg" alt="abdicate" style="width:50%">
       <p>Meaning:fail to fulfil or undertake (a responsibility or duty).</p><br>
