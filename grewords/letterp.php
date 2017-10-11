@@ -16,6 +16,16 @@
 	  <h2><b>1.perennial</b></h2>
 	  <img src="images/perennial.jpg" alt="perennial" style="width:50%">
       <p>Meaning:something long-lasting; perennial plant; ADJ: lasting through the year or many years; lasting for a long time; enduring</p><br>
+      <h2><b>2.portray</b></h2>
+	  <img src="images/portray.jpg" alt="portray" style="width:50%">
+      <p>Meaning:depict (someone or something) in a work of art or literature.</p><br>
+  	  <h2><b>3.ploy</b></h2>
+	  <img src="images/ploy.jpg" alt="ploy" style="width:50%">
+      <p>Meaning:a cunning plan or action designed to turn a situation to one's own advantage.</p><br>
+      <p>an activity done for amusement.</p>
+  	  <h2><b>4.plodding</b></h2>
+	  <img src="images/plodding.jpg" alt="plodding" style="width:50%">
+      <p>Meaning:slow-moving and laborious.</p><br>
 	  <h2><b>3.Abate</b></h2>
 	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
       <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
@@ -37,15 +47,6 @@
 	  	  <h2><b>9.abeyance</b></h2>
 	  <img src="images/abeyance.jpg" alt="abeyance" style="width:50%">
       <p>Meaning:a state of temporary disuse or suspension.</p><br>
-	  	  <h2><b>2.Abate</b></h2>
-	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
-      <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
-	  	  <h2><b>2.Abate</b></h2>
-	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
-      <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
-	  	  <h2><b>2.Abate</b></h2>
-	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
-      <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
 	  	  <h2><b>2.Abate</b></h2>
 	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
       <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
