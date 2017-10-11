@@ -55,6 +55,9 @@
 	  <h2><b>14.appease</b></h2>
 	  <img src="images/appease.jpg" alt="appease" style="width:50%">
       <p>Meaning:pacify or soothe; Ex. appease a crying baby; N. appeasement</p><br>
+      <h2><b>15.aisles</b></h2>
+	  <img src="images/aisles.jpg" alt="aisles" style="width:50%">
+      <p>Meaning:a passage between rows of seats in a building such as a church or theatre, an aircraft, or train</p>
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

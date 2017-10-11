@@ -16,9 +16,9 @@
 	  <h2><b>1.stringent</b></h2>
 	  <img src="images/stringent.jpg" alt="stringent" style="width:50%">
       <p>Meaning:(of regulations, requirements, or conditions) strict, precise, and exacting.</p><br>
-      <h2><b>2.Abash</b></h2>
-	  <img src="images/abash.jpg" alt="Abash" style="width:50%">
-      <p>Meaning:make (someone) feel embarrassed, disconcerted, or ashamed.</p><br>
+      <h2><b>2.sympathy</b></h2>
+	  <img src="images/sympathy.jpg" alt="sympathy" style="width:50%">
+      <p>Meaning:feelings of pity and sorrow for someone else's misfortune.</p><br>
 	  <h2><b>3.Abate</b></h2>
 	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
       <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>

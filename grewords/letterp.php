@@ -26,9 +26,9 @@
   	  <h2><b>4.plodding</b></h2>
 	  <img src="images/plodding.jpg" alt="plodding" style="width:50%">
       <p>Meaning:slow-moving and laborious.</p><br>
-	  <h2><b>3.Abate</b></h2>
-	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
-      <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
+	  <h2><b>5.perilously </b></h2>
+	  <img src="images/perilously.jpg" alt="perilously" style="width:50%">
+      <p>Meaning:in a way that is full of danger or risk.</p><br>
 	  	  <h2><b>4.abbreviate</b></h2>
 	  <img src="images/abbreviate.jpg" alt="abbreviate" style="width:50%">
       <p>Meaning:shorten (a word, phrase, or text).</p><br>

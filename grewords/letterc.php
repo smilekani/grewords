@@ -22,12 +22,12 @@
 	  <h2><b>3.cacophonous</b></h2>
 	  <img src="images/cacophonous.jpg" alt="cacophonous" style="width:50%">
       <p>Meaning:involving or producing a harsh, discordant mixture of sounds.</p><br>
-	  	  <h2><b>4.abbreviate</b></h2>
-	  <img src="images/capricious.png" alt="capricious" style="width:50%">
-      <p>Meaning:given to sudden and unaccountable changes of mood or behaviour.</p><br>
-	  	  <h2><b>5.abdicate</b></h2>
-	  <img src="images/abdicate.jpg" alt="abdicate" style="width:50%">
-      <p>Meaning:fail to fulfil or undertake (a responsibility or duty).</p><br>
+  	  <h2><b>4.conjure </b></h2>
+	  <img src="images/conjure .jpg" alt="conjure" style="width:50%">
+      <p>Meaning:cause (a spirit or ghost) to appear by means of a magic ritual.</p><br>
+	  	  <h2><b>5.chandelier</b></h2>
+	  <img src="images/chandelier.jpg" alt="chandelier" style="width:50%">
+      <p>Meaning:a large, decorative hanging light with branches for several light bulbs or candles.</p><br>
 	  	  <h2><b>6.aberrant</b></h2>
 	  <img src="images/aberrant.jpg" alt="aberrant" style="width:50%">
       <p>Meaning:departing from an accepted standard.</p><br>
@@ -40,9 +40,6 @@
 	  	  <h2><b>9.abeyance</b></h2>
 	  <img src="images/abeyance.jpg" alt="abeyance" style="width:50%">
       <p>Meaning:a state of temporary disuse or suspension.</p><br>
-	  	  <h2><b>2.Abate</b></h2>
-	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
-      <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
 	  	  <h2><b>2.Abate</b></h2>
 	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
       <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>

@@ -12,10 +12,10 @@
 		</div>
     </div>
     <div class="col-sm-8">
-      <h3>GRE Word starting with letter - A</h3>
-	  <h2><b>1.Abase</b></h2>
-	  <img src="images/abase.jpg" alt="Abase" style="width:50%">
-      <p>Meaning:behave in a way that belittles or degrades (someone).</p><br>
+      <h3>GRE Word starting with letter - W</h3>
+	  <h2><b>1.weird</b></h2>
+	  <img src="images/weird.jpg" alt="weird" style="width:50%">
+      <p>Meaning:suggesting something supernatural; unearthly.</p><br>
       <h2><b>2.Abash</b></h2>
 	  <img src="images/abash.jpg" alt="Abash" style="width:50%">
       <p>Meaning:make (someone) feel embarrassed, disconcerted, or ashamed.</p><br>

@@ -16,12 +16,12 @@
 	  <h2><b>1.dabble</b></h2>
 	  <img src="images/dabble.jpg" alt="dabble" style="width:50%">
       <p>Meaning:take part in an activity in a casual or superficial way.</p><br>
-      <h2><b>2.Abash</b></h2>
-	  <img src="images/abash.jpg" alt="Abash" style="width:50%">
-      <p>Meaning:make (someone) feel embarrassed, disconcerted, or ashamed.</p><br>
-	  <h2><b>3.Abate</b></h2>
-	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
-      <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
+      <h2><b>2.distress</b></h2>
+	  <img src="images/distress.jpg" alt="distress" style="width:50%">
+      <p>Meaning:extreme anxiety, sorrow, or pain.</p><br>
+	  <h2><b>3.distraught</b></h2>
+	  <img src="images/distraught.jpg" alt="distraught" style="width:50%">
+      <p>Meaning:very worried and upset</p><br>
 	  	  <h2><b>4.abbreviate</b></h2>
 	  <img src="images/abbreviate.jpg" alt="abbreviate" style="width:50%">
       <p>Meaning:shorten (a word, phrase, or text).</p><br>

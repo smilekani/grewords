@@ -16,9 +16,9 @@
 	  <h2><b>1.incessant</b></h2>
 	  <img src="images/incessant.jpg" alt="incessant" style="width:50%">
       <p>Meaning:(of something regarded as unpleasant) continuing without pause or interruption.</p><br>
-      <h2><b>2.Abash</b></h2>
-	  <img src="images/abash.jpg" alt="Abash" style="width:50%">
-      <p>Meaning:make (someone) feel embarrassed, disconcerted, or ashamed.</p><br>
+      <h2><b>2.illustrator</b></h2>
+	  <img src="images/illustrator.jpg" alt="illustrator" style="width:50%">
+      <p>Meaning:a person who draws or creates pictures for magazines, books, advertising, etc.</p><br>
 	  <h2><b>3.Abate</b></h2>
 	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
       <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>

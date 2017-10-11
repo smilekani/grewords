@@ -16,9 +16,10 @@
 	  <h2><b>1.nettlesome</b></h2>
 	  <img src="images/nettlesome.jpg" alt="nettlesome" style="width:50%">
       <p>Meaning:causing annoyance or difficulty.</p><br>
-      <h2><b>2.Abash</b></h2>
-	  <img src="images/abash.jpg" alt="Abash" style="width:50%">
-      <p>Meaning:make (someone) feel embarrassed, disconcerted, or ashamed.</p><br>
+      <h2><b>2.Non-Fiction</b></h2>
+	  <img src="images/nonfiction.jpg" alt="nonfiction" style="width:50%">
+      <p>Meaning:Non-fiction or nonfiction is content (sometimes, in the form of a story) whose creator,
+       in good faith, assumes responsibility for the truth or accuracy of the events, people, or information presented.</p><br>
 	  <h2><b>3.Abate</b></h2>
 	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
       <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>

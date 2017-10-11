@@ -13,9 +13,9 @@
     </div>
     <div class="col-sm-8">
       <h3>GRE Word starting with letter - F</h3>
-	  <h2><b>1.Abase</b></h2>
-	  <img src="images/abase.jpg" alt="Abase" style="width:50%">
-      <p>Meaning:behave in a way that belittles or degrades (someone).</p><br>
+	  <h2><b>1.Fiction</b></h2>
+	  <img src="images/fiction.jpg" alt="fiction" style="width:50%">
+      <p>Meaning:literature in the form of prose, especially novels, that describes imaginary events and people.</p><br>
       <h2><b>2.Abash</b></h2>
 	  <img src="images/abash.jpg" alt="Abash" style="width:50%">
       <p>Meaning:make (someone) feel embarrassed, disconcerted, or ashamed.</p><br>

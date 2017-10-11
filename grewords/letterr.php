@@ -12,7 +12,11 @@
 		</div>
     </div>
     <div class="col-sm-8">
-      <h3>GRE Word starting with letter - A</h3>
+      <h3>GRE Word starting with letter - R</h3>
+	  <h2><b>1.regret</b></h2>
+	  <img src="images/regret.jpg" alt="regret" style="width:50%">
+      <p>Meaning:feel sad, repentant, or disappointed over (something that one has done or failed to do).</p><br>
+	  
 	  <h2><b>1.Abase</b></h2>
 	  <img src="images/abase.jpg" alt="Abase" style="width:50%">
       <p>Meaning:behave in a way that belittles or degrades (someone).</p><br>
@@ -40,9 +44,6 @@
 	  	  <h2><b>9.abeyance</b></h2>
 	  <img src="images/abeyance.jpg" alt="abeyance" style="width:50%">
       <p>Meaning:a state of temporary disuse or suspension.</p><br>
-	  	  <h2><b>2.Abate</b></h2>
-	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
-      <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
 	  	  <h2><b>2.Abate</b></h2>
 	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
       <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>

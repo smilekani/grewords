@@ -40,7 +40,9 @@
 	  <h2><b>9.bilious</b></h2>
 	  <img src="images/bilious.jpg" alt="bilious" style="width:50%">
       <p>Meaning:suffering from indigestion; sick from having too much bile; irritable; easily irritated.</p><br>
-
+	  <h2><b>10.brunette</b></h2>
+	  <img src="images/brunette.jpg" alt="brunette" style="width:50%">
+	  <p>Meaning:People with brown hair are often referred to as brunette</p>
 
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
