@@ -22,12 +22,7 @@
 	  <h2><b>3.truculence</b></h2>
 	  <img src="images/truculence.jpg" alt="truculence" style="width:50%">
       <p>Meaning:aggressiveness; ferocity; ADJ. truculent: aggressive; pugnacious; fierce</p><br>
-	  	  <h2><b>4.abbreviate</b></h2>
-	  <img src="images/abbreviate.jpg" alt="abbreviate" style="width:50%">
-      <p>Meaning:shorten (a word, phrase, or text).</p><br>
-	  	  <h2><b>5.abdicate</b></h2>
-	  <img src="images/abdicate.jpg" alt="abdicate" style="width:50%">
-      <p>Meaning:fail to fulfil or undertake (a responsibility or duty).</p><br>
+
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

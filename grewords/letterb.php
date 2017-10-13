@@ -43,6 +43,9 @@
 	  <h2><b>10.brunette</b></h2>
 	  <img src="images/brunette.jpg" alt="brunette" style="width:50%">
 	  <p>Meaning:People with brown hair are often referred to as brunette</p>
+	  <h2><b>11.blunder</b></h2>
+	  <img src="images/blunder.jpg" alt="blunder" style="width:50%">
+	  <p>Meaning:a stupid or careless mistake.</p>
 
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

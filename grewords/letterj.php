@@ -16,42 +16,7 @@
 	  <h2><b>1.jingoist</b></h2>
 	  <img src="images/jingoist.jpg" alt="jingoist" style="width:50%">
       <p>characterized by extreme patriotism, especially in the form of aggressive or warlike foreign policy.</p><br>
-      <h2><b>2.Abash</b></h2>
-	  <img src="images/abash.jpg" alt="Abash" style="width:50%">
-      <p>Meaning:make (someone) feel embarrassed, disconcerted, or ashamed.</p><br>
-	  <h2><b>3.Abate</b></h2>
-	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
-      <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
-	  	  <h2><b>4.abbreviate</b></h2>
-	  <img src="images/abbreviate.jpg" alt="abbreviate" style="width:50%">
-      <p>Meaning:shorten (a word, phrase, or text).</p><br>
-	  	  <h2><b>5.abdicate</b></h2>
-	  <img src="images/abdicate.jpg" alt="abdicate" style="width:50%">
-      <p>Meaning:fail to fulfil or undertake (a responsibility or duty).</p><br>
-	  	  <h2><b>6.aberrant</b></h2>
-	  <img src="images/aberrant.jpg" alt="aberrant" style="width:50%">
-      <p>Meaning:departing from an accepted standard.</p><br>
-	  	  <h2><b>7.aberration</b></h2>
-	  <img src="images/aberration.png" alt="aberration" style="width:50%">
-      <p>Meaning:a departure from what is normal, usual, or expected, typically an unwelcome one.</p><br>
-	  	  <h2><b>8.abet</b></h2>
-	  <img src="images/abet.jpg" alt="abet" style="width:50%">
-      <p>Meaning:encourage or assist (someone) to do something wrong, in particular to commit a crime.</p><br>
-	  	  <h2><b>9.abeyance</b></h2>
-	  <img src="images/abeyance.jpg" alt="abeyance" style="width:50%">
-      <p>Meaning:a state of temporary disuse or suspension.</p><br>
-	  	  <h2><b>2.Abate</b></h2>
-	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
-      <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
-	  	  <h2><b>2.Abate</b></h2>
-	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
-      <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
-	  	  <h2><b>2.Abate</b></h2>
-	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
-      <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
-	  	  <h2><b>2.Abate</b></h2>
-	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
-      <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
+      
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

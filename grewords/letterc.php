@@ -23,32 +23,11 @@
 	  <img src="images/cacophonous.jpg" alt="cacophonous" style="width:50%">
       <p>Meaning:involving or producing a harsh, discordant mixture of sounds.</p><br>
   	  <h2><b>4.conjure </b></h2>
-	  <img src="images/conjure .jpg" alt="conjure" style="width:50%">
+	  <img src="images/conjure.jpg" alt="conjure" style="width:50%">
       <p>Meaning:cause (a spirit or ghost) to appear by means of a magic ritual.</p><br>
 	  	  <h2><b>5.chandelier</b></h2>
 	  <img src="images/chandelier.jpg" alt="chandelier" style="width:50%">
       <p>Meaning:a large, decorative hanging light with branches for several light bulbs or candles.</p><br>
-	  	  <h2><b>6.aberrant</b></h2>
-	  <img src="images/aberrant.jpg" alt="aberrant" style="width:50%">
-      <p>Meaning:departing from an accepted standard.</p><br>
-	  	  <h2><b>7.aberration</b></h2>
-	  <img src="images/aberration.png" alt="aberration" style="width:50%">
-      <p>Meaning:a departure from what is normal, usual, or expected, typically an unwelcome one.</p><br>
-	  	  <h2><b>8.abet</b></h2>
-	  <img src="images/abet.jpg" alt="abet" style="width:50%">
-      <p>Meaning:encourage or assist (someone) to do something wrong, in particular to commit a crime.</p><br>
-	  	  <h2><b>9.abeyance</b></h2>
-	  <img src="images/abeyance.jpg" alt="abeyance" style="width:50%">
-      <p>Meaning:a state of temporary disuse or suspension.</p><br>
-	  	  <h2><b>2.Abate</b></h2>
-	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
-      <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
-	  	  <h2><b>2.Abate</b></h2>
-	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
-      <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
-	  	  <h2><b>2.Abate</b></h2>
-	  <img src="images/abate.jpg" alt="Abate" style="width:50%">
-      <p>Meaning:(of something unpleasant or severe) become less intense or widespread.</p><br>
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">
