@@ -16,6 +16,10 @@
 	  <h2><b>1.Fiction</b></h2>
 	  <img src="images/fiction.jpg" alt="fiction" style="width:50%">
       <p>Meaning:literature in the form of prose, especially novels, that describes imaginary events and people.</p><br>
+	  <h2><b>2.Fraught</b></h2>
+	  <img src="images/fraught.jpg" alt="Fraught" style="width:50%">
+      <p>Meaning:(of a situation or course of action) filled with (something undesirable).</p><br>
+
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

@@ -22,6 +22,14 @@
 	  <h2><b>3.distraught</b></h2>
 	  <img src="images/distraught.jpg" alt="distraught" style="width:50%">
       <p>Meaning:very worried and upset</p><br>
+      <h2><b>4.deft</b></h2>
+	  <img src="images/deft.jpg" alt="deft" style="width:50%">
+      <p>Meaning:neatly skilful and quick in one's movements.</p><br>
+      <h2><b>5.daunt</b></h2>
+	  <img src="images/daunt.jpg" alt="daunt" style="width:50%">
+      <p>Meaning:make (someone) feel intimidated or apprehensive.</p><br>
+      
+      
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

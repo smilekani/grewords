@@ -16,6 +16,9 @@
 	  <h2><b>1.quail</b></h2>
 	  <img src="images/quail.jpg" alt="quail" style="width:50%">
       <p>Meaning:cower; shrink back in fear; lose heart</p><br>
+  	  <h2><b>2.quarries</b></h2>
+	  <img src="images/quarries.jpg" alt="quarries" style="width:50%">
+      <p>Meaning:a place, typically a large, deep pit, from which stone or other materials are or have been extracted.</p><br>
       
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

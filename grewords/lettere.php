@@ -19,6 +19,10 @@
       <h2><b>2.expunge</b></h2>
 	  <img src="images/expunge.jpg" alt="expunge" style="width:50%">
       <p>Meaning:obliterate or remove completely (something unwanted or unpleasant).</p><br>
+      <h2><b>3.enthusiastic</b></h2>
+	  <img src="images/enthusiastic.jpg" alt="enthusiastic" style="width:50%">
+      <p>Meaning:having or showing intense and eager enjoyment, interest, or approval.</p><br>
+      
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

@@ -20,6 +20,9 @@
 	  <img src="images/nonfiction.jpg" alt="nonfiction" style="width:50%">
       <p>Meaning:Non-fiction or nonfiction is content (sometimes, in the form of a story) whose creator,
        in good faith, assumes responsibility for the truth or accuracy of the events, people, or information presented.</p><br>
+	  <h2><b>3.nuance</b></h2>
+	  <img src="images/nuance.jpg" alt="nuance" style="width:50%">
+      <p>Meaning:a subtle difference in or shade of meaning, expression, or sound.</p><br>
 	  
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

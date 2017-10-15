@@ -19,7 +19,15 @@
       <h2><b>2.sympathy</b></h2>
 	  <img src="images/sympathy.jpg" alt="sympathy" style="width:50%">
       <p>Meaning:feelings of pity and sorrow for someone else's misfortune.</p><br>
-
+      <h2><b>3.scowl</b></h2>
+	  <img src="images/scowl.jpg" alt="scowl" style="width:50%">
+      <p>Meaning:an angry or bad-tempered expression.</p><br>
+      <h2><b>4.souvenir</b></h2>
+	  <img src="images/souvenir.jpg" alt="souvenir" style="width:50%">
+      <p>Meaning:a thing that is kept as a reminder of a person, place, or event.</p><br>
+      <h2><b>4.scoop</b></h2>
+	  <img src="images/scoop.jpg" alt="scoop" style="width:50%">
+      <p>Meaning:pick up and move (something) with a scoop.</p><br>
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

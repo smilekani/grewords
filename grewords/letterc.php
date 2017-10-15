@@ -28,6 +28,13 @@
 	  	  <h2><b>5.chandelier</b></h2>
 	  <img src="images/chandelier.jpg" alt="chandelier" style="width:50%">
       <p>Meaning:a large, decorative hanging light with branches for several light bulbs or candles.</p><br>
+      <h2><b>6.cutlery</b></h2>
+	  <img src="images/cutlery.jpg" alt="cutlery" style="width:50%">
+      <p>Meaning:knives, forks, and spoons used for eating or serving food.</p><br>
+      <h2><b>6.cadence</b></h2>
+	  <img src="images/cadence.jpg" alt="cadence" style="width:50%">
+      <p>Meaning:a modulation or inflection of the voice.</p><br>
+      
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

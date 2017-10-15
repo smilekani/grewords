@@ -46,7 +46,9 @@
 	  <h2><b>11.blunder</b></h2>
 	  <img src="images/blunder.jpg" alt="blunder" style="width:50%">
 	  <p>Meaning:a stupid or careless mistake.</p>
-
+	  <h2><b>12.barges</b></h2>
+	  <img src="images/barges.jpg" alt="barges" style="width:50%">
+	  <p>Meaning:a long flat-bottomed boat for carrying freight on canals and rivers, either under its own power or towed by another.</p>
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

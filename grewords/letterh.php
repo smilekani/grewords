@@ -19,7 +19,9 @@
       <h2><b>2.hackles</b></h2>
 	  <img src="images/hackles.jpg" alt="hackles" style="width:50%">
       <p>Meaning:erectile hairs along an animal's back, which rise when it is angry or alarmed.</p><br>
-	  
+	  <h2><b>3.hewn</b></h2>
+	  <img src="images/hewn.jpg" alt="hewn" style="width:50%">
+	  <p>Meaning:chop or cut (something, especially wood or coal) with an axe, pick, or other tool.</p><br>
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

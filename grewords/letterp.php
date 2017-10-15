@@ -29,6 +29,9 @@
 	  <h2><b>5.perilously </b></h2>
 	  <img src="images/perilously.jpg" alt="perilously" style="width:50%">
       <p>Meaning:in a way that is full of danger or risk.</p><br>
+	  <h2><b>6.provocative</b></h2>
+	  <img src="images/provocative.jpg" alt="provocative" style="width:50%">
+      <p>Meaning:causing anger or another strong reaction, especially deliberately.</p><br>
 
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
