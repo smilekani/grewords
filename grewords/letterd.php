@@ -28,6 +28,15 @@
       <h2><b>5.daunt</b></h2>
 	  <img src="images/daunt.jpg" alt="daunt" style="width:50%">
       <p>Meaning:make (someone) feel intimidated or apprehensive.</p><br>
+      <h2><b>6.desperate</b></h2>
+	  <img src="images/desperate.jpg" alt="desperate" style="width:50%">
+      <p>Meaning:(of a person) having a great need or desire for something.</p><br>
+      <h2><b>7.denounce</b></h2>
+	  <img src="images/denounce.jpg" alt="denounce" style="width:50%">
+      <p>Meaning:publicly declare to be wrong or evil.</p><br>
+      <h2><b>8.desecrate</b></h2>
+	  <img src="images/desecrate.jpg" alt="desecrate" style="width:50%">
+      <p>Meaning:treat (a sacred place or thing) with violent disrespect.</p><br>
       
       
 <!-- 	 <div class="row">

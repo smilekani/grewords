@@ -16,6 +16,10 @@
 	  <h2><b>1.regret</b></h2>
 	  <img src="images/regret.jpg" alt="regret" style="width:50%">
       <p>Meaning:feel sad, repentant, or disappointed over (something that one has done or failed to do).</p><br>
+	  <h2><b>2.receptors</b></h2>
+	  <img src="images/receptors.jpg" alt="receptors" style="width:50%">
+      <p>Meaning:an organ or cell able to respond to light, heat, or other external stimulus and transmit a signal to a sensory nerve.</p><br>
+	  
 	  
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

@@ -19,6 +19,9 @@
       <h2><b>2.gaffe</b></h2>
 	  <img src="images/gaffe.jpg" alt="gaffe" style="width:50%">
       <p>Meaning:an unintentional act or remark causing embarrassment to its originator; a blunder.</p><br>
+      <h2><b>3.gratification</b></h2>
+	  <img src="images/gratification.jpg" alt="gratification" style="width:50%">
+      <p>Meaning:pleasure, especially when gained from the satisfaction of a desire.</p><br>
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

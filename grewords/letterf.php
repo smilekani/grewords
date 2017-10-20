@@ -19,6 +19,9 @@
 	  <h2><b>2.Fraught</b></h2>
 	  <img src="images/fraught.jpg" alt="Fraught" style="width:50%">
       <p>Meaning:(of a situation or course of action) filled with (something undesirable).</p><br>
+      <h2><b>3.fickle</b></h2>
+	  <img src="images/fickle.gif" alt="fickle" style="width:50%">
+      <p>Meaning:changing frequently, especially as regards one's loyalties or affections.</p><br>
 
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

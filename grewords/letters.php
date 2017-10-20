@@ -25,9 +25,12 @@
       <h2><b>4.souvenir</b></h2>
 	  <img src="images/souvenir.jpg" alt="souvenir" style="width:50%">
       <p>Meaning:a thing that is kept as a reminder of a person, place, or event.</p><br>
-      <h2><b>4.scoop</b></h2>
+      <h2><b>5.scoop</b></h2>
 	  <img src="images/scoop.jpg" alt="scoop" style="width:50%">
       <p>Meaning:pick up and move (something) with a scoop.</p><br>
+      <h2><b>6.solicitous</b></h2>
+	  <img src="images/solicitous.jpg" alt="solicitous" style="width:50%">
+      <p>Meaning:characterized by or showing interest or concern.</p><br>
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

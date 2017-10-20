@@ -19,6 +19,9 @@
       <h2><b>2.illustrator</b></h2>
 	  <img src="images/illustrator.jpg" alt="illustrator" style="width:50%">
       <p>Meaning:a person who draws or creates pictures for magazines, books, advertising, etc.</p><br>
+      <h2><b>3.intact</b></h2>
+	  <img src="images/intact.jpg" alt="intact" style="width:50%">
+      <p>Meaning:not damaged or impaired in any way; complete.</p><br>
 	  
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
