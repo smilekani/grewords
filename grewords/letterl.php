@@ -14,7 +14,7 @@
     <div class="col-sm-8">
       <h3>GRE Word starting with letter - L</h3>
 	  <h2><b>1.labile</b></h2>
-	  <img src="images/abase.jpg" alt="Abase" style="width:50%">
+	  <img src="images/labile.jpg" alt="labile" style="width:50%">
       <p>Meaning:liable to change; easily altered.UstableEx. emotionally labile; N. lability</p><br>
      
 <!-- 	 <div class="row">

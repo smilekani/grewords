@@ -14,7 +14,7 @@
     <div class="col-sm-8">
       <h3>GRE Word starting with letter - O</h3>
       <h2><b>1.officious</b></h2>
-	  <img src="images/officious.jpg" alt="officious" style="width:50%">
+	  <img src="images/officious.png" alt="officious" style="width:50%">
       <p>Meaning:assertive of authority in a domineering way, especially with regard to trivial matters.</p><br>
 	  <h2><b>2.ostracize</b></h2>
 	  <img src="images/ostracize.jpg" alt="ostracize" style="width:50%">
