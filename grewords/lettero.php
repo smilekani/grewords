@@ -19,6 +19,9 @@
 	  <h2><b>2.ostracize</b></h2>
 	  <img src="images/ostracize.jpg" alt="ostracize" style="width:50%">
       <p>Meaning:exclude from a society or group.</p><br>
+  	  <h2><b>3.oozes</b></h2>
+	  <img src="images/oozes.jpg" alt="oozes" style="width:50%">
+      <p>Meaning:(of a fluid) slowly trickle or seep out of something.</p><br>
 
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

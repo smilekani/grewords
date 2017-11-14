@@ -22,6 +22,9 @@
       <h2><b>3.intact</b></h2>
 	  <img src="images/intact.jpg" alt="intact" style="width:50%">
       <p>Meaning:not damaged or impaired in any way; complete.</p><br>
+      <h2><b>4.inevitable</b></h2>
+	  <img src="images/inevitable.jpg" alt="inevitable" style="width:50%">
+      <p>Meaning:certain to happen; unavoidable.</p><br>
 	  
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

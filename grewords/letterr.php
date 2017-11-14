@@ -19,8 +19,12 @@
 	  <h2><b>2.receptors</b></h2>
 	  <img src="images/receptors.jpg" alt="receptors" style="width:50%">
       <p>Meaning:an organ or cell able to respond to light, heat, or other external stimulus and transmit a signal to a sensory nerve.</p><br>
-	  
-	  
+	  <h2><b>3.rumbling</b></h2>
+	  <img src="images/rumbling.jpg" alt="rumbling" style="width:50%">
+      <p>Meaning:a continuous deep, resonant sound.</p><br>
+  	  <h2><b>4.reclaim</b></h2>
+	  <img src="images/reclaim.jpg" alt="reclaim" style="width:50%">
+      <p>Meaning:retrieve or recover (something previously lost, given, or paid); obtain the return of.</p><br>
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

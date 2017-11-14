@@ -22,6 +22,9 @@
       <h2><b>3.enthusiastic</b></h2>
 	  <img src="images/enthusiastic.jpg" alt="enthusiastic" style="width:50%">
       <p>Meaning:having or showing intense and eager enjoyment, interest, or approval.</p><br>
+      <h2><b>4.endure</b></h2>
+	  <img src="images/endure.jpg" alt="endure" style="width:50%">
+      <p>Meaning:remain in existence; last.</p><br>
       
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

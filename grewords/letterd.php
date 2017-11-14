@@ -37,6 +37,9 @@
       <h2><b>8.desecrate</b></h2>
 	  <img src="images/desecrate.jpg" alt="desecrate" style="width:50%">
       <p>Meaning:treat (a sacred place or thing) with violent disrespect.</p><br>
+      <h2><b>9.demystify</b></h2>
+	  <img src="images/demystify.jpg" alt="demystify" style="width:50%">
+      <p>Meaning:make (a difficult subject) clearer and easier to understand.</p><br>
       
       
 <!-- 	 <div class="row">

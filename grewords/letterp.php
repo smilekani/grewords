@@ -35,7 +35,9 @@
   	  <h2><b>7.pitfall</b></h2>
 	  <img src="images/pitfall.jpg" alt="pitfall" style="width:50%">
       <p>Meaning:a hidden or unsuspected danger or difficulty.</p><br>
-     
+	  <h2><b>8.pace</b></h2>
+	  <img src="images/pace.jpg" alt="pace" style="width:50%">
+      <p>Meaning:a single step taken when walking or running.</p><br>
 
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

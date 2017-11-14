@@ -31,6 +31,9 @@
       <h2><b>6.solicitous</b></h2>
 	  <img src="images/solicitous.jpg" alt="solicitous" style="width:50%">
       <p>Meaning:characterized by or showing interest or concern.</p><br>
+      <h2><b>7.squeeze</b></h2>
+	  <img src="images/squeeze.jpg" alt="squeeze" style="width:50%">
+      <p>Meaning:firmly press (something soft or yielding), typically with one's fingers.</p><br>
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">
