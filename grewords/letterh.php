@@ -22,6 +22,13 @@
 	  <h2><b>3.hewn</b></h2>
 	  <img src="images/hewn.jpg" alt="hewn" style="width:50%">
 	  <p>Meaning:chop or cut (something, especially wood or coal) with an axe, pick, or other tool.</p><br>
+	  <h2><b>4.hasty</b></h2>
+	  <img src="images/hasty.jpg" alt="hasty" style="width:50%">
+      <p>Meaning:done with excessive speed or urgency; hurried.</p><br>
+      <h2><b>5.hedgehogs</b></h2>
+	  <img src="images/hedgehogs.jpg" alt="hedgehogs" style="width:50%">
+      <p>Meaning:a small nocturnal Old World mammal with a spiny coat and short legs, 
+      able to roll itself into a ball for defence.</p><br>
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

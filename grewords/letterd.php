@@ -40,6 +40,12 @@
       <h2><b>9.demystify</b></h2>
 	  <img src="images/demystify.jpg" alt="demystify" style="width:50%">
       <p>Meaning:make (a difficult subject) clearer and easier to understand.</p><br>
+      <h2><b>10.daisy_chain</b></h2>
+	  <img src="images/daisy_chain.jpg" alt="daisy_chain" style="width:50%">
+      <p>Meaning:a string of daisies threaded together by their stems.</p><br>
+      <h2><b>11.dramatic</b></h2>
+	  <img src="images/dramatic.jpg" alt="dramatic" style="width:50%">
+      <p>Meaning:a string of daisies threaded together by their stems.</p><br>
       
       
 <!-- 	 <div class="row">

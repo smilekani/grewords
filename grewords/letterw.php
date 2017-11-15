@@ -16,6 +16,14 @@
 	  <h2><b>1.weird</b></h2>
 	  <img src="images/weird.jpg" alt="weird" style="width:50%">
       <p>Meaning:suggesting something supernatural; unearthly.</p><br>
+  	  <h2><b>2.wedge</b></h2>
+	  <img src="images/wedge.jpg" alt="wedge" style="width:50%">
+      <p>Meaning:suggesting something supernatural; unearthlya piece of wood, metal, etc. having one thick end and tapering to a thin edge,
+       that is driven between two objects or parts of an object to secure or separate them.</p><br>
+      <h2><b>3.wags</b></h2>
+	  <img src="images/wags.jpg" alt="wags" style="width:50%">
+      <p>Meaning:a wife or girlfriend of a sports player, typically characterized as having a high media profile and a glamorous lifestyle.</p><br>
+      
 
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

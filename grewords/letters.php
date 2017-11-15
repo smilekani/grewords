@@ -34,6 +34,15 @@
       <h2><b>7.squeeze</b></h2>
 	  <img src="images/squeeze.jpg" alt="squeeze" style="width:50%">
       <p>Meaning:firmly press (something soft or yielding), typically with one's fingers.</p><br>
+      <h2><b>8.spades</b></h2>
+	  <img src="images/spades.jpg" alt="spades" style="width:50%">
+      <p>Meaning:a tool with a sharp-edged, typically rectangular, metal blade and a long handle, 
+      used for digging or cutting earth, sand, turf, etc.</p><br>
+      <h2><b>9.substantial</b></h2>
+	  <img src="images/substantial.jpg" alt="substantial" style="width:50%">
+      <p>Meaning:of considerable importance, size, or worth.</p><br>
+      
+      
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

@@ -31,9 +31,12 @@
       <h2><b>6.cutlery</b></h2>
 	  <img src="images/cutlery.jpg" alt="cutlery" style="width:50%">
       <p>Meaning:knives, forks, and spoons used for eating or serving food.</p><br>
-      <h2><b>6.cadence</b></h2>
+      <h2><b>7.cadence</b></h2>
 	  <img src="images/cadence.jpg" alt="cadence" style="width:50%">
       <p>Meaning:a modulation or inflection of the voice.</p><br>
+      <h2><b>8.clasp</b></h2>
+	  <img src="images/clasp.jpg" alt="clasp" style="width:50%">
+      <p>Meaning:grasp (something) tightly with one's hand.</p><br>
       
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

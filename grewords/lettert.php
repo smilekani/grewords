@@ -22,6 +22,9 @@
 	  <h2><b>3.truculence</b></h2>
 	  <img src="images/truculence.jpg" alt="truculence" style="width:50%">
       <p>Meaning:aggressiveness; ferocity; ADJ. truculent: aggressive; pugnacious; fierce</p><br>
+      <h2><b>4.trailing</b></h2>
+	  <img src="images/trailing.jpg" alt="trailing" style="width:50%">
+      <p>Meaning:draw or be drawn along behind someone or something.</p><br>
 
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

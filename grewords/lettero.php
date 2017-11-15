@@ -22,6 +22,13 @@
   	  <h2><b>3.oozes</b></h2>
 	  <img src="images/oozes.jpg" alt="oozes" style="width:50%">
       <p>Meaning:(of a fluid) slowly trickle or seep out of something.</p><br>
+	  <h2><b>4.oars</b></h2>
+	  <img src="images/oars.jpg" alt="oars" style="width:50%">
+      <p>Meaning:a pole with a flat blade, used to row or steer a boat through the water.</p><br>
+      <h2><b>5.outcrops</b></h2>
+	  <img src="images/outcrops.jpg" alt="outcrops" style="width:50%">
+      <p>Meaning:a rock formation that is visible on the surface.</p><br>
+      
 
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

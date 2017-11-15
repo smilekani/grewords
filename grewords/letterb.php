@@ -52,6 +52,13 @@
   	  <h2><b>13.besotted</b></h2>
 	  <img src="images/besotted.jpg" alt="besotted" style="width:50%">
 	  <p>Meaning:a stupid or careless mistake.</p>
+	  <h2><b>14.buckle</b></h2>
+	  <img src="images/buckle.jpg" alt="buckle" style="width:50%">
+	  <p>Meaning:a flat, typically rectangular frame with a hinged pin, used for joining the ends of a belt or strap.</p>
+	  <h2><b>14.buckle</b></h2>
+	  <img src="images/buckle1.jpg" alt="buckle" style="width:50%">
+	  <p>Meaning:bend and give way under pressure or strain.</p>
+	  
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

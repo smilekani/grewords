@@ -38,6 +38,15 @@
 	  <h2><b>8.pace</b></h2>
 	  <img src="images/pace.jpg" alt="pace" style="width:50%">
       <p>Meaning:a single step taken when walking or running.</p><br>
+  	  <h2><b>9.peep</b></h2>
+	  <img src="images/peep.jpg" alt="peep" style="width:50%">
+      <p>Meaning:look quickly and furtively at something, especially through a narrow opening.</p><br>
+      <h2><b>10.pretence</b></h2>
+	  <img src="images/pretence.jpg" alt="pretence" style="width:50%">
+      <p>Meaning:an attempt to make something that is not the case appear true.</p><br>
+      <h2><b>11.pursue</b></h2>
+	  <img src="images/pursue.jpg" alt="pursue" style="width:50%">
+      <p>Meaning:follow or chase (someone or something).</p><br>
 
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

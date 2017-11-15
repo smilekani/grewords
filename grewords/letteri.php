@@ -25,6 +25,9 @@
       <h2><b>4.inevitable</b></h2>
 	  <img src="images/inevitable.jpg" alt="inevitable" style="width:50%">
       <p>Meaning:certain to happen; unavoidable.</p><br>
+      <h2><b>5.indignantly</b></h2>
+	  <img src="images/indignantly.jpg" alt="indignantly" style="width:50%">
+      <p>Meaning:in a manner indicating anger or annoyance at something perceived as unfair.</p><br>
 	  
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

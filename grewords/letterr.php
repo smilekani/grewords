@@ -25,6 +25,9 @@
   	  <h2><b>4.reclaim</b></h2>
 	  <img src="images/reclaim.jpg" alt="reclaim" style="width:50%">
       <p>Meaning:retrieve or recover (something previously lost, given, or paid); obtain the return of.</p><br>
+	  <h2><b>5.regress</b></h2>
+	  <img src="images/regress.jpg" alt="regress" style="width:50%">
+      <p>Meaning:return to a former or less developed state.</p><br>
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">
