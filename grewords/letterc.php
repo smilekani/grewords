@@ -25,7 +25,7 @@
   	  <h2><b>4.conjure </b></h2>
 	  <img src="images/conjure.jpg" alt="conjure" style="width:50%">
       <p>Meaning:cause (a spirit or ghost) to appear by means of a magic ritual.</p><br>
-	  	  <h2><b>5.chandelier</b></h2>
+	  <h2><b>5.chandelier</b></h2>
 	  <img src="images/chandelier.jpg" alt="chandelier" style="width:50%">
       <p>Meaning:a large, decorative hanging light with branches for several light bulbs or candles.</p><br>
       <h2><b>6.cutlery</b></h2>
@@ -37,6 +37,9 @@
       <h2><b>8.clasp</b></h2>
 	  <img src="images/clasp.jpg" alt="clasp" style="width:50%">
       <p>Meaning:grasp (something) tightly with one's hand.</p><br>
+      <h2><b>9.capricious</b></h2>
+	  <img src="images/capricious.jpg" alt="capricious" style="width:50%">
+      <p>Meaning:given to sudden and unaccountable changes of mood or behaviour.</p><br>
       
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

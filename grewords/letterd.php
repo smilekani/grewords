@@ -45,7 +45,7 @@
       <p>Meaning:a string of daisies threaded together by their stems.</p><br>
       <h2><b>11.dramatic</b></h2>
 	  <img src="images/dramatic.jpg" alt="dramatic" style="width:50%">
-      <p>Meaning:a string of daisies threaded together by their stems.</p><br>
+      <p>Meaning:(of an event or circumstance) sudden and striking.</p><br>
       
       
 <!-- 	 <div class="row">
