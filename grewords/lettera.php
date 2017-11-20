@@ -58,6 +58,9 @@
       <h2><b>15.aisles</b></h2>
 	  <img src="images/aisles.jpg" alt="aisles" style="width:50%">
       <p>Meaning:a passage between rows of seats in a building such as a church or theatre, an aircraft, or train</p>
+      <h2><b>16.asset</b></h2>
+	  <img src="images/asset.jpg" alt="asset" style="width:50%">
+      <p>Meaning:an item of property owned by a person or company, regarded as having value and available to meet debts, commitments, or legacies.</p>
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

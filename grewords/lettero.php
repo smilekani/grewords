@@ -28,6 +28,9 @@
       <h2><b>5.outcrops</b></h2>
 	  <img src="images/outcrops.jpg" alt="outcrops" style="width:50%">
       <p>Meaning:a rock formation that is visible on the surface.</p><br>
+      <h2><b>6.opponent</b></h2>
+	  <img src="images/opponent.jpg" alt="opponent" style="width:50%">
+      <p>Meaning:someone who competes with or opposes another in a contest, game, or argument.</p><br>
       
 
 <!-- 	 <div class="row">

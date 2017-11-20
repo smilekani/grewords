@@ -28,6 +28,11 @@
       <h2><b>5.indignantly</b></h2>
 	  <img src="images/indignantly.jpg" alt="indignantly" style="width:50%">
       <p>Meaning:in a manner indicating anger or annoyance at something perceived as unfair.</p><br>
+      <h2><b>6.inflection</b></h2>
+	  <img src="images/inflection.jpg" alt="inflection" style="width:50%">
+      <p>Meaning:a change in the form of a word (typically the ending) to express a grammatical function or attribute such as tense, mood, person, number, case, and gender.
+      "a set of word forms differing only in respect of inflections"</p><br>
+      
 	  
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

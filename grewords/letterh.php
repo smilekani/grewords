@@ -29,6 +29,10 @@
 	  <img src="images/hedgehogs.jpg" alt="hedgehogs" style="width:50%">
       <p>Meaning:a small nocturnal Old World mammal with a spiny coat and short legs, 
       able to roll itself into a ball for defence.</p><br>
+      <h2><b>6.Humpty_Dumpty</b></h2>
+	  <img src="images/Humpty_Dumpty.jpg" alt="Humpty_Dumpty" style="width:50%">
+      <p>Meaning:a short fat person.</p><br>
+      
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

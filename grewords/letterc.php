@@ -40,6 +40,10 @@
       <h2><b>9.capricious</b></h2>
 	  <img src="images/capricious.jpg" alt="capricious" style="width:50%">
       <p>Meaning:given to sudden and unaccountable changes of mood or behaviour.</p><br>
+      <h2><b>10.context</b></h2>
+	  <img src="images/context.png" alt="contexts" style="width:50%">
+      <p>Meaning:the circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood.</p><br>
+      
       
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
