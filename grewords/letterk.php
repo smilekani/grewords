@@ -16,6 +16,9 @@
 	  <h2><b>1.Ken</b></h2>
 	  <img src="images/ken.jpg" alt="ken" style="width:50%">
       <p>Meaning:one's range of knowledge or understanding.</p><br>
+  	  <h2><b>2.knave</b></h2>
+	  <img src="images/knave.jpg" alt="knave" style="width:50%">
+      <p>Meaning:a dishonest or unscrupulous man.</p><br>
       
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

@@ -43,6 +43,9 @@
       <h2><b>10.context</b></h2>
 	  <img src="images/context.png" alt="contexts" style="width:50%">
       <p>Meaning:the circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood.</p><br>
+      <h2><b>11.capering</b></h2>
+	  <img src="images/capering.jpg" alt="capering" style="width:50%">
+      <p>Meaning:skip or dance about in a lively or playful way.</p><br>
       
       
 <!-- 	 <div class="row">

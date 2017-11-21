@@ -16,6 +16,9 @@
 	  <h2><b>1.labile</b></h2>
 	  <img src="images/labile.jpg" alt="labile" style="width:50%">
       <p>Meaning:liable to change; easily altered.UstableEx. emotionally labile; N. lability</p><br>
+      <h2><b>2.lobster</b></h2>
+	  <img src="images/lobster.jpg" alt="lobster" style="width:50%">
+      <p>Meaning:a large marine crustacean with a cylindrical body, stalked eyes, and the first of its five pairs of limbs modified as pincers.</p><br>
      
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

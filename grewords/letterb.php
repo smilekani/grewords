@@ -58,6 +58,9 @@
 	  <h2><b>14.buckle</b></h2>
 	  <img src="images/buckle1.jpg" alt="buckle" style="width:50%">
 	  <p>Meaning:bend and give way under pressure or strain.</p>
+  	  <h2><b>15.bullying</b></h2>
+	  <img src="images/bullying.jpg" alt="bullying" style="width:50%">
+	  <p>Meaning:use superior strength or influence to intimidate (someone), typically to force them to do something.</p>
 	  
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

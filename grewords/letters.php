@@ -41,6 +41,9 @@
       <h2><b>9.substantial</b></h2>
 	  <img src="images/substantial.jpg" alt="substantial" style="width:50%">
       <p>Meaning:of considerable importance, size, or worth.</p><br>
+      <h2><b>10.sob</b></h2>
+	  <img src="images/sob.jpg" alt="sob" style="width:50%">
+      <p>Meaning:cry noisily, making loud, convulsive gasps.</p><br>
       
       
 <!-- 	 <div class="row">

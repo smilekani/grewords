@@ -25,7 +25,15 @@
       <h2><b>4.trailing</b></h2>
 	  <img src="images/trailing.jpg" alt="trailing" style="width:50%">
       <p>Meaning:draw or be drawn along behind someone or something.</p><br>
-
+      <h2><b>5.trembling</b></h2>
+	  <img src="images/trembling.png" alt="trembling" style="width:50%">
+      <p>Meaning:shaking or quivering, typically as a result of anxiety, excitement, or frailty.</p><br>
+      <h2><b>5.treading</b></h2>
+	  <img src="images/treading.png" alt="treading" style="width:50%">
+      <p>Meaning:walk in a specified way.</p><br>
+      <h2><b>6.tart</b></h2>
+	  <img src="images/tart.png" alt="tart" style="width:50%">
+      <p>Meaning:an open pastry case containing a sweet or savoury filling.</p><br>
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

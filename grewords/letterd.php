@@ -46,6 +46,9 @@
       <h2><b>11.dramatic</b></h2>
 	  <img src="images/dramatic.jpg" alt="dramatic" style="width:50%">
       <p>Meaning:(of an event or circumstance) sudden and striking.</p><br>
+      <h2><b>12.derision</b></h2>
+	  <img src="images/derision.jpg" alt="derision" style="width:50%">
+      <p>Meaning:contemptuous ridicule or mockery.</p><br>
       
       
 <!-- 	 <div class="row">
