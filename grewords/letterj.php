@@ -16,6 +16,9 @@
 	  <h2><b>1.jingoist</b></h2>
 	  <img src="images/jingoist.jpg" alt="jingoist" style="width:50%">
       <p>characterized by extreme patriotism, especially in the form of aggressive or warlike foreign policy.</p><br>
+      <h2><b>2.jingoist</b></h2>
+	  <img src="images/jovial.jpg" alt="jovial" style="width:50%">
+      <p>cheerful and friendly.</p><br>
       
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

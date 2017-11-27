@@ -23,7 +23,7 @@
 	  <img src="images/fickle.gif" alt="fickle" style="width:50%">
       <p>Meaning:changing frequently, especially as regards one's loyalties or affections.</p><br>
       <h2><b>4.flapper</b></h2>
-	  <img src="images/flapper.png" alt="flapper" style="width:50%">
+	  <img src="images/flapper.jpg" alt="flapper" style="width:50%">
       <p>Meaning:(in the 1920s) a fashionable young woman intent on enjoying herself and flouting conventional standards of behaviour.</p><br>
 
 <!-- 	 <div class="row">

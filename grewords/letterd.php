@@ -49,6 +49,9 @@
       <h2><b>12.derision</b></h2>
 	  <img src="images/derision.jpg" alt="derision" style="width:50%">
       <p>Meaning:contemptuous ridicule or mockery.</p><br>
+      <h2><b>13.desiccate</b></h2>
+	  <img src="images/desiccate.jpg" alt="desiccate" style="width:50%">
+      <p>Meaning:contemptuous ridicule or mockery.</p><br>
       
       
 <!-- 	 <div class="row">

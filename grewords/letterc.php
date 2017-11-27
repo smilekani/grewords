@@ -38,7 +38,7 @@
 	  <img src="images/clasp.jpg" alt="clasp" style="width:50%">
       <p>Meaning:grasp (something) tightly with one's hand.</p><br>
       <h2><b>9.capricious</b></h2>
-	  <img src="images/capricious.jpg" alt="capricious" style="width:50%">
+	  <img src="images/capricious.png" alt="capricious" style="width:50%">
       <p>Meaning:given to sudden and unaccountable changes of mood or behaviour.</p><br>
       <h2><b>10.context</b></h2>
 	  <img src="images/context.png" alt="contexts" style="width:50%">

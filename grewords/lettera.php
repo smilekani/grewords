@@ -61,6 +61,12 @@
       <h2><b>16.asset</b></h2>
 	  <img src="images/asset.jpg" alt="asset" style="width:50%">
       <p>Meaning:an item of property owned by a person or company, regarded as having value and available to meet debts, commitments, or legacies.</p>
+      <h2><b>17.accusation</b></h2>
+	  <img src="images/accusation.jpg" alt="accusation" style="width:50%">
+      <p>Meaning:a charge or claim that someone has done something illegal or wrong.</p>
+      <h2><b>18.awful</b></h2>
+	  <img src="images/awful.jpg" alt="awful" style="width:50%">
+      <p>Meaning:very bad or unpleasant.</p>
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">
