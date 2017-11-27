@@ -16,6 +16,10 @@
 	  <h2><b>1.Vivid</b></h2>
 	  <img src="images/vivid.jpg" alt="Vivid" style="width:50%">
       <p>Meaning:producing powerful feelings or strong, clear images in the mind.</p><br>
+      <h2><b>2.vandalism</b></h2>
+	  <img src="images/vandalism.jpg" alt="vandalism" style="width:50%">
+      <p>Meaning:action involving deliberate destruction of or damage to public or private property.</p><br>
+      
 
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

@@ -67,6 +67,10 @@
       <h2><b>18.awful</b></h2>
 	  <img src="images/awful.jpg" alt="awful" style="width:50%">
       <p>Meaning:very bad or unpleasant.</p>
+      <h2><b>19.agonizing</b></h2>
+	  <img src="images/agonizing.jpg" alt="agonizing" style="width:50%">
+      <p>Meaning:causing great physical or mental pain.</p>
+      
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
 	  <form action="javabasic.php" method="post">

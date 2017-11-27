@@ -46,6 +46,10 @@
       <h2><b>11.capering</b></h2>
 	  <img src="images/capering.jpg" alt="capering" style="width:50%">
       <p>Meaning:skip or dance about in a lively or playful way.</p><br>
+      <h2><b>12.competent</b></h2>
+	  <img src="images/competent.jpg" alt="competent" style="width:50%">
+      <p>Meaning:having the necessary ability, knowledge, or skill to do something successfully.</p><br>
+      
       
       
 <!-- 	 <div class="row">
