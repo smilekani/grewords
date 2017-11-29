@@ -25,6 +25,25 @@
       <h2><b>4.endure</b></h2>
 	  <img src="images/endure.jpg" alt="endure" style="width:50%">
       <p>Meaning:remain in existence; last.</p><br>
+      <h2><b>5.enthral</b></h2>
+	  <img src="images/enthral.jpg" alt="enthral" style="width:50%">
+      <p>Meaning:capture the fascinated attention of.</p><br>
+      <h2><b>6.escort</b></h2>
+	  <img src="images/escort.jpg" alt="escort" style="width:50%">
+      <p>Meaning:a person, vehicle, or group accompanying another for protection or as a mark of rank.</p><br>
+      <h2><b>7.evasive</b></h2>
+	  <img src="images/evasive.jpg" alt="evasive" style="width:50%">
+      <p>Meaning:tending to avoid commitment or self-revelation, especially by responding only indirectly.</p><br>
+      <h2><b>8.espionage</b></h2>
+	  <img src="images/espionage.jpg" alt="espionage" style="width:50%">
+      <p>Meaning:the practice of spying or of using spies, typically by governments to obtain political and military information.</p><br>
+      <h2><b>9.entail</b></h2>
+	  <img src="images/entail.jpg" alt="entail" style="width:50%">
+      <p>Meaning:require; necessitate; involve. Building a collegelevel vocabulary will entail some work on your own part.</p><br>
+      
+      
+      
+      
       
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

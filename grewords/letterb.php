@@ -61,6 +61,10 @@
   	  <h2><b>15.bullying</b></h2>
 	  <img src="images/bullying.jpg" alt="bullying" style="width:50%">
 	  <p>Meaning:use superior strength or influence to intimidate (someone), typically to force them to do something.</p>
+	  <h2><b>16.beset</b></h2>
+	  <img src="images/beset.jpg" alt="beset" style="width:50%">
+	  <p>Meaning:(of a problem or difficulty) trouble (someone or something) persistently.</p>
+	  
 	  
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">

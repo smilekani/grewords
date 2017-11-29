@@ -47,6 +47,18 @@
       <h2><b>11.pursue</b></h2>
 	  <img src="images/pursue.jpg" alt="pursue" style="width:50%">
       <p>Meaning:follow or chase (someone or something).</p><br>
+      <h2><b>12.prim</b></h2>
+	  <img src="images/prim.jpg" alt="prim" style="width:50%">
+      <p>Meaning:very precise and formal; exceedingly proper;stiffly correct.</p><br>
+      <h2><b>13.prevaricate</b></h2>
+	  <img src="images/prevaricate.jpg" alt="prevaricate" style="width:50%">
+      <p>Meaning:speak or act in an evasive way.</p><br>
+      <h2><b>14.primp</b></h2>
+	  <img src="images/primp.jpg" alt="primp" style="width:50%">
+      <p>Meaning:spend time making minor adjustments to one's hair, make-up, or clothes.</p><br>
+      
+      
+      
 
 <!-- 	 <div class="row">
 	  <div class="col-sm-2">
